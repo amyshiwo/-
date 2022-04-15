@@ -1,0 +1,19 @@
+
+{
+  "dependencies": {
+    "miniprogram-sm-crypto": "^0.3.7",
+    "vant": "^3.4.6",
+    "weui-miniprogram": "^1.2.3"
+  },
+  "name": "caropera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yanyan",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
